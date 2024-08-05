@@ -1,0 +1,13 @@
+let age = 24;
+// console.log(age);
+age + 1;
+// console.log(age);
+fullName = "Tony Stark";
+// console.log("fullName");
+// console.log(fullName);
+price = 99.99;
+x = null;
+console.log(x);
+y = undefined;
+console.log(undefined);
+console.log(price);
